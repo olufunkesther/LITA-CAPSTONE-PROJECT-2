@@ -1,5 +1,6 @@
 # LITA-CAPSTONE-PROJECT 2
 
+## Project 1: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
 [Project Overview](#project-overview)
 
