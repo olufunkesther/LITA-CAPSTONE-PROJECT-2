@@ -1,6 +1,19 @@
 # LITA-CAPSTONE-PROJECT 2
 
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Key Metrics](#key-metrics)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 
 
