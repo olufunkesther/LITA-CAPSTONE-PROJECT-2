@@ -6,7 +6,7 @@
 
 [Data Sources](#data-sources)
 
-[Key Metrics](#key-metrics)
+[Data Characteristics](#data-characteristics)
 
 [Tools Used](#tools-used)
 
@@ -26,18 +26,26 @@ This project aims to analyze customer data for a subscription service to identif
 ---
 The primary source of Data used here is the customer subscription data given by Incubator Hub for this project. It includes detailed records of customer name, subscription type, region, customer ID, Subcription date, revenue, subscription duration and cancellation.
 
+### Data Characteristics
+The dataset consists of the following;
+1. Subscription Type: the types of subscriptions avaiable for purchase.
+2. Region: the areas the products were purchased.
+3. Subscription Start: the date the subscription starts.
+4. Subscription Ends: the date the subscription ends.
+5. Customer ID: the unqiue ID of each customer.
+6. Customer name: this is the name of each customer.
+7. Duration: the period between the start and end date.
+8. Canceled: this is the rate at which customers cancel and renew subscription
+9. Order ID: the unique ID of each order made.
+10. Revenue: the total amount generated from product sold.
+
+
 ### Project Objectives
 ---
 This project was designed to address the following analysis goals:
 - Customer Preference: analyses perferance of customers based on their purchase.
 - Key Trends in cancellation and Renewal: analyzes the number of frequency of subscription renewal and cancellation.
 - Regional Performance: analyses the revenue performance across regions.
-
-### Key Metrics
----
-- Revenue: sum of revenue column, grouped by regions and products.
-- Unit sold: sum of quantity, grouped by region and months.
-- Average Sales: analysed as total revenue/total unit sold for each region.
 
 ### Tools Used
 ---
