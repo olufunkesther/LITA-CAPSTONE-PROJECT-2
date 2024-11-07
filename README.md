@@ -80,6 +80,14 @@ This project was designed to address the following analysis goals:
   - what is the trend of cancellation and renewal?
  
 ### Data Analysis
+---
+#### Subscription Trend
+This shows the movement in subscription in different months.There was a high subscription rate in July with revene of **6,782,294** and low subscription rate in September with revenue of **3,365,221**. The summer months **June, July and August
+
+##### Recommedation
+There should be increased marketing campaigns in peak seasons and targeted promotions in low seasons to increase subscriptions.
+
+![image](https://github.com/user-attachments/assets/df461cf2-2610-4ea2-a317-dcc5b115c421)
 
   
 ### Data Visualization
