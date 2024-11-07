@@ -20,18 +20,18 @@
 
 ### Project Overview
 ---
-This project aims to uncover key insights such as top-selling products, regional performance, and monthly sales trends of a retail store. The goal is to provide insights into revenue, units sold and products across regions. By analysising theses parameters in the data received, the focus is based on understanding revenue trends and sales performance across regions and in different products. 
+This project aims to analyze customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types,and identify key trends in cancellations and renewals. 
 
 ### Data Sources
 ---
-The primary source of Data used here is Sale Data.csv and is an open data source that can be freely downloaded from an open source data.
+The primary source of Data used here is the customer subscription data given by Incubator Hub for this project. It includes detailed records of customer name, subscription type, region, customer ID, Subcription date, revenue, subscription duration and cancellation.
 
 ### Project Objectives
 ---
 This project was designed to address the following analysis goals:
-- Revenue by Products and by Months: Determine the total and average revenue generated to give a sales overview.
-- Region by Units sold: Analyzes the number of units sold per regions to identify the highest-selling locations.
-- Region by Products and by Revenue: Analyses the products across the regions and give a regional breakdown.
+- Customer Preference: analyses perferance of customers based on their purchase.
+- Key Trends in cancellation and Renewal: analyzes the number of frequency of subscription renewal and cancellation.
+- Regional Performance: analyses the revenue performance across regions.
 
 ### Key Metrics
 ---
