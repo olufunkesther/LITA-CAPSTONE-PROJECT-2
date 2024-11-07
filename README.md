@@ -2,7 +2,8 @@
 
 ## CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE
 
-## OUTLINE
+
+### PROJECT OUTLINE
 [Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
