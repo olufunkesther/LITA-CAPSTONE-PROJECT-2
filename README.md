@@ -19,6 +19,7 @@
 [Conclusion](#conclusion)
 
 
+
 ### Project Overview
 ---
 This project aims to analyze customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types,and identify key trends in cancellations and renewals. 
@@ -77,6 +78,7 @@ This project was designed to address the following analysis goals:
   - what is the trend of cancellation and renewal?
  
 ### Data Analysis
+
   
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/5c74cf1a-2c5e-46d6-943c-dc99410d526c)
