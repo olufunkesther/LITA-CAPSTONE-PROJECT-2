@@ -55,23 +55,17 @@ This project was designed to address the following analysis goals:
  ### Data Cleaning and Preparation
   ---
   In the intial phase of the Data cleaning and preparations, we perform the following action;
-  1. Data loading and Inspection
-  2. Handling missing variables
-  3. Data Cleaning and formatting
+  1. Removal of Duplicates: duplicates were identified and removed within the dataset.
+  2. Data Formatting: the data was standardized in the right format.
+  3. Handling missing variables: variables like duration was calculated.
 
 ### Exploratory Data Analysis
   ---
   EDA involved the exploring of the Data to answer some questions about the Data such as;
-  - what is the total sales by products?
-  - what are the top performing products?
-  - what is the total revenue by products?
+  - what is customers preference based on subscription type?
+  - which subscription type had the highest revenue?
+  - what is the trend of cancellation and renewal?
  
 ### Data Analysis
-  ---
-  Some formulars used during this analysis includes;
-
-  ```
-  Total Revenue = Total Sales * Unit price
-  Average Revenue = Total Revenue/Unit sold
-  ```
+  
 ### Data Visualization
