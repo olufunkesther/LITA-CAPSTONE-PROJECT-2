@@ -89,6 +89,7 @@ There should be increased marketing campaigns in peak seasons and targeted promo
 
 ![image](https://github.com/user-attachments/assets/df461cf2-2610-4ea2-a317-dcc5b115c421)
 
+
 #### Customer's Preference
 Based on the calculation done, the Basic Subscription had the highest Revenue of **33,776,735** compared to the Premium and Standard Subscription with **16,899,064** and **16,864,374** respectively. This shows customer's preference for Basic subscription which seemed more affordable compared to the other 2 subsciption types.
 
@@ -98,10 +99,19 @@ There should be targeted promotions and advertisement on Premium and standard su
 ![image](https://github.com/user-attachments/assets/df6a868f-9ede-417a-8c89-9f5ce2ef6991)
 
 
+#### Subscription Duration
+The average duration across all subscription types was **365 days.** This reavealed that customers were satisfied with the subscription services and renewed consistently over time.
+
+##### Recommendation
+There should be constant delivery of excellent service to encourage consistent subscription and there should be juicy offers from time to time to maintain customer retention.
+
+![image](https://github.com/user-attachments/assets/ee40cffb-5e0a-4798-aebb-3c0cbe5a85db)
+
+
+
 
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/5c74cf1a-2c5e-46d6-943c-dc99410d526c)
-
 
 
 
