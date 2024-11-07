@@ -27,6 +27,7 @@ This project aims to analyze customer data for a subscription service to identif
 The primary source of Data used here is the customer subscription data given by Incubator Hub for this project. It includes detailed records of customer name, subscription type, region, customer ID, Subcription date, revenue, subscription duration and cancellation.
 
 ### Data Characteristics
+---
 The dataset consists of the following;
 1. Subscription Type: the types of subscriptions avaiable for purchase.
 2. Region: the areas the products were purchased.
