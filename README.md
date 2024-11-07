@@ -1,6 +1,7 @@
 # LITA-CAPSTONE-PROJECT 2
 
 ## CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE
+---
 
 [Project Overview](#project-overview)
 
