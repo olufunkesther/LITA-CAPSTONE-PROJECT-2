@@ -115,4 +115,8 @@ There should be constant delivery of excellent service to encourage consistent s
 
 
 
+
+
 ### Conclusion
+The anaylsis gives a detailed insight into customer preference and behaviour based on subscription types, the subscription trend ouver the months and the average duration based on subscription.
+Tha analysis shared will help them adopt improved strategies for better performance as well as better decison making techniques for maximization of revenue.
